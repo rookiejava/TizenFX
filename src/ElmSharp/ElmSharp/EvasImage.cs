@@ -15,13 +15,82 @@
  */
 
 using System;
-using System.Collections.Generic;
 using System.ComponentModel;
 using System.IO;
-using System.Text;
 
 namespace ElmSharp
 {
+    /// <summary>
+    /// Enumeration for pixel data of colorspaces supported by Evas.
+    /// </summary>
+    public enum Colorspace
+    {
+        /// <summary>
+        /// ARGB 32 bits per pixel, high-byte is Alpha, accessed 1 32bit word at a time
+        /// </summary>
+        ARGB8888,
+
+        /// <summary>
+        /// YCbCr 4:2:2 Planar, ITU.BT-601 specifications. The data pointed to is just an array of row pointer, pointing to the Y rows, then the Cb, then Cr rows
+        /// </summary>
+        YCBCR422P601_PL,
+
+        /// <summary>
+        /// YCbCr 4:2:2 Planar, ITU.BT-709 specifications. The data pointed to is just an array of row pointer, pointing to the Y rows, then the Cb, then Cr rows
+        /// </summary>
+        YCBCR422P709_PL,
+
+        /// <summary>
+        /// 16bit rgb565 + Alpha plane at end - 5 bits of the 8 being used per alpha byte
+        /// </summary>
+        RGB565_A5P,
+
+        /// <summary>
+        /// 8bit grayscale
+        /// </summary>
+        GRY8,
+
+        /// <summary>
+        /// YCbCr 4:2:2, ITU.BT-601 specifications. The data pointed to is just an array of row pointer, pointing to line of Y, Cb, Y, Cr byte
+        /// </summary>
+        YCBCR422601_PL,
+
+        /// <summary>
+        /// YCbCr 4:2:0, ITU.BT-601 specification. The data pointed to is just an array of row pointer, pointing to the Y rows, then the Cb, Cr rows.
+        /// </summary>
+        YCBCR420NV12601_PL,
+
+        /// <summary>
+        /// YCbCr 4:2:0, ITU.BT-601 specification. The data pointed to is just an array of tiled row pointer, pointing to the Y rows, then the Cb,Cr rows.
+        /// </summary>
+        YCBCR420TM12601_PL,
+
+        /// <summary>
+        /// AY 8bits Alpha and 8bits Grey, accessed 1 16bits at a time
+        /// </summary>
+        AGRY88,
+
+        /// <summary>
+        /// OpenGL ETC1 encoding of RGB texture (4 bit per pixel)
+        /// </summary>
+        ETC1,
+
+        /// <summary>
+        /// OpenGL GL_COMPRESSED_RGB8_ETC2 texture compression format (4 bit per pixel)
+        /// </summary>
+        RGB8_ETC2,
+
+        /// <summary>
+        /// OpenGL GL_COMPRESSED_RGBA8_ETC2_EAC texture compression format, supports alpha (8 bit per pixel)
+        /// </summary>
+        RGBA8_ETC2_EAC,
+
+        /// <summary>
+        /// ETC1 with alpha support using two planes: ETC1 RGB and ETC1 grey for alpha
+        /// </summary>
+        ETC1_ALPHA,
+    }
+
     /// <summary>
     /// This group provides the functions for image objects.
     /// </summary>
@@ -212,6 +281,21 @@ namespace ElmSharp
         }
 
         /// <summary>
+        /// Sets or gets the colorspace of a given image of the canvas.
+        /// </summary>
+        public Colorspace Colorspace
+        {
+            get
+            {
+                return (Colorspace)Interop.Evas.evas_object_image_colorspace_get(RealHandle);
+            }
+            set
+            {
+                Interop.Evas.evas_object_image_colorspace_set(RealHandle, (int)value);
+            }
+        }
+
+        /// <summary>
         /// Sets how to fill an image object's drawing rectangle given the (real) image bound to it.
         /// </summary>
         /// <param name="geometry">The rectangle of the given image object that the image will be drawn to.</param>
@@ -219,6 +303,16 @@ namespace ElmSharp
         public void SetFill(Rect geometry)
         {
             Interop.Evas.evas_object_image_fill_set(RealHandle, geometry.X, geometry.Y, geometry.Width, geometry.Height);
+        }
+
+        /// <summary>
+        /// Sets whether the given image object is dirty and needs to request its pixels.
+        /// </summary>
+        /// <param name="isDirty">Set TRUE to mark the image object as dirty, otherwise set to FALSE.</param>
+        /// <since_tizen> preview </since_tizen>
+        public void SetDirty(bool isDirty)
+        {
+            Interop.Evas.evas_object_image_pixels_dirty_set(RealHandle, isDirty);
         }
 
         /// <summary>
@@ -280,6 +374,17 @@ namespace ElmSharp
         public void SetNativeSurface(IntPtr surface)
         {
             Interop.Evas.evas_object_image_native_surface_set(RealHandle, surface);
+        }
+
+        /// <summary>
+        /// Get the image data
+        /// </summary>
+        /// <param name="forWriting"></param>
+        /// <returns></returns>
+        [EditorBrowsable(EditorBrowsableState.Never)]
+        public IntPtr GetImageData(bool forWriting)
+        {
+            return Interop.Evas.evas_object_image_data_get(RealHandle, forWriting);
         }
 
         /// <summary>

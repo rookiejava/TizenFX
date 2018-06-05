@@ -230,9 +230,11 @@ namespace ElmSharp
         EvasObjectEvent _resized;
         EventHandler _renderPost;
         Interop.Evas.EvasCallback _renderPostCallback = null;
+        Interop.Evas.ImagePixelsSetCallback _imagePixelsSetCallback = null;
         Interop.Elementary.Elm_Tooltip_Content_Cb _tooltipContentCallback = null;
 
         GetTooltipContentDelegate _tooltipContentDelegate = null;
+        GetImagePixelsDelegate _imagePixelsDelegate = null;
 
         readonly HashSet<IInvalidatable> _eventStore = new HashSet<IInvalidatable>();
 
@@ -261,6 +263,11 @@ namespace ElmSharp
             _tooltipContentCallback = (d, o, t) =>
             {
                 return _tooltipContentDelegate?.Invoke();
+            };
+
+            _imagePixelsSetCallback = (d, o) =>
+            {
+                _imagePixelsDelegate?.Invoke();
             };
         }
 
@@ -398,6 +405,12 @@ namespace ElmSharp
         /// <returns></returns>
         /// <since_tizen> preview </since_tizen>
         public delegate EvasObject GetTooltipContentDelegate();
+
+        /// <summary>
+        /// Called when a canvas's image needs pixels.
+        /// </summary>
+        /// <since_tizen> preview </since_tizen>
+        public delegate void GetImagePixelsDelegate();
 
         /// <summary>
         /// Gets a widget's status of realized or not.
@@ -749,6 +762,30 @@ namespace ElmSharp
                 else
                 {
                     Interop.Elementary.elm_object_tooltip_content_cb_set(RealHandle, null, IntPtr.Zero, null);
+                }
+            }
+        }
+
+        /// <summary>
+        /// Sets the callback to get pixels from a canvas's image.
+        /// </summary>
+        /// <since_tizen> preview </since_tizen>
+        public GetImagePixelsDelegate ImagePixelsDelegate
+        {
+            get
+            {
+                return _imagePixelsDelegate;
+            }
+            set
+            {
+                _imagePixelsDelegate = value;
+                if (value != null)
+                {
+                    Interop.Evas.evas_object_image_pixels_get_callback_set(RealHandle, _imagePixelsSetCallback, IntPtr.Zero);
+                }
+                else
+                {
+                    Interop.Evas.evas_object_image_pixels_get_callback_set(RealHandle, null, IntPtr.Zero);
                 }
             }
         }

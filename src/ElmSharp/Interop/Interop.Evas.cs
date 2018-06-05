@@ -72,22 +72,6 @@ internal static partial class Interop
             UnknownFormat = 6 /* File is not a known format */
         }
 
-        public enum Colorspace
-        {
-            Argb8888, /* ARGB 32 bits per pixel, high-byte is Alpha, accessed 1 32bit word at a time */
-            Ycbcr422p709pl, /* YCbCr 4:2:2 Planar, ITU.BT-709 specifications. The data pointed to is just an array of row pointer, pointing to the Y rows, then the Cb, then Cr rows */
-            Ergb565a5p, /* 16bit rgb565 + Alpha plane at end - 5 bits of the 8 being used per alpha byte */
-            Egry8, /* 8bit grayscale */
-            Eycbcr422601pl, /*  YCbCr 4:2:2, ITU.BT-601 specifications. The data pointed to is just an array of row pointer, pointing to line of Y,Cb,Y,Cr bytes */
-            Eycbcr420nv12601pl, /* YCbCr 4:2:0, ITU.BT-601 specification. The data pointed to is just an array of row pointer, pointing to the Y rows, then the Cb,Cr rows. */
-            Eycbcr420tm12601pl, /* YCbCr 4:2:0, ITU.BT-601 specification. The data pointed to is just an array of tiled row pointer, pointing to the Y rows, then the Cb,Cr rows. */
-            Eagry88, /* AY 8bits Alpha and 8bits Grey, accessed 1 16bits at a time */
-            Eetc1, /* OpenGL ETC1 encoding of RGB texture (4 bit per pixel) @since 1.10 */
-            Ergb8etc2, /* OpenGL GL_COMPRESSED_RGB8_ETC2 texture compression format (4 bit per pixel) @since 1.10 */
-            Ergba8etc2eac, /* OpenGL GL_COMPRESSED_RGBA8_ETC2_EAC texture compression format, supports alpha (8 bit per pixel) @since 1.10 */
-            Eetc1alpha,     /* ETC1 with alpha support using two planes: ETC1 RGB and ETC1 grey for alpha @since 1.11 */
-        }
-
         public enum ImageScaleHint
         {
             None = 0, /* No scale hint at all */
