@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 env:
-  TARGET_BRANCHES: 'master API10 API9'
+  TARGET_BRANCHES: 'master'
 
 jobs:
   nightly:
@@ -36,7 +36,7 @@ jobs:
         TARGETS: ${{ steps.find-targets.outputs.targets }}
         WORKFLOW_NAME: 'Deploy Packages'
       with:
-        github-token: ${{ secrets.TIZENAPI_GITHUB_TOKEN }}
+        github-token: ${{ secrets.GITHUB_TOKEN }}
         script: |
           var resp = await github.request('GET /repos/{owner}/{repo}/actions/workflows', {
             owner: context.repo.owner,
@@ -54,7 +54,7 @@ jobs:
               repo: context.repo.repo,
               workflow_id: workflow.id,
               ref: 'master',
-              inputs: { target, deploy_to_myget: 'true', deploy_to_tizen: 'true' }
+              inputs: { target, deploy_to_myget: 'false', deploy_to_tizen: 'false' }
             })
             console.log(`Event dispatch for ${target} : ${dispatchResp.status}`)
           })
