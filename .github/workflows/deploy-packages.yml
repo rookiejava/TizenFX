@@ -71,6 +71,12 @@ jobs:
         git tag -fa "v$VERSION" -m "Release $VERSION"
         git push -f --tags origin refs/tags/"v$VERSION"
 
+    - name: "Upload artifact (NuGet package)"
+      uses: actions/upload-artifact@v3
+      with:
+        name: ZIP
+        path: Artifacts/*.nupkg
+
     - name: Install Github Package Registry Tool
       if: github.event.inputs.deploy_to_gpr == 'true'
       run: dotnet tool install --global --no-cache gpr
