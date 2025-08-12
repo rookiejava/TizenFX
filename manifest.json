@@ -89116,7 +89116,7 @@
       "output": {
         ".html": {
           "relative_path": "API12/api/Tizen.NUI.NUIApplication.html",
-          "hash": "c6NUlBOSvB5mUyf/23GkYyM6xngpnbtmw9IEvDfV2HM="
+          "hash": "QbV1bEluhgHuu+8C9T2bf983VlUl4pQkFxF7OaT9lMA="
         }
       },
       "is_incremental": false,
@@ -119679,7 +119679,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.AutoScrollStopMode.html",
-          "hash": "oH9FK2rlCxaZLWtFDIYEmwDV/YCpIqNhoeJHOlWYL8E="
+          "hash": "DM2OgARJ3c4L5RVE9XsVJyPdLhdMIibiohXpOOlM4LE="
         }
       },
       "is_incremental": false,
@@ -119835,7 +119835,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.BaseComponents.ImageView.LoadingStatusType.html",
-          "hash": "hUx/wzTfVIOrqKLSpvJ1lVCu8lAyoOPlAms+H33bQ9g="
+          "hash": "EFgfHply5BZv+1tQHBWXQ5fyL2BY3NBWNnJNABRJgOA="
         }
       },
       "is_incremental": false,
@@ -119848,7 +119848,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.BaseComponents.ImageView.ResourceReadyEventArgs.html",
-          "hash": "unS9qr2kCFw5yLsm1MAtje9vqMayEcD5C6SHJD4G92A="
+          "hash": "5IPjaIJy/zcsKkH0udY8IxhMa2IMxyLDmHvk8WE4SUg="
         }
       },
       "is_incremental": false,
@@ -119861,7 +119861,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.BaseComponents.ImageView.html",
-          "hash": "9u8SKGgHPykbgZlBzr5zvRuqkkVh+sdzorK4DYhaxn8="
+          "hash": "fmgVkjlbDBZtdRUe1WfFQZ3n8EsZtecYJ3fX7AxfECY="
         }
       },
       "is_incremental": false,
@@ -119900,7 +119900,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.BaseComponents.LottieAnimationView.LoopingModeType.html",
-          "hash": "Jb7pqOUfnrDBqIIny/dpuaqsMKYTjmeiIQvXpN+uZu0="
+          "hash": "Pd/4nqCcdR3C7Rb9bHXZnOT3C9gND+fLzqtbt+DOBkE="
         }
       },
       "is_incremental": false,
@@ -119913,7 +119913,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.BaseComponents.LottieAnimationView.PlayStateType.html",
-          "hash": "9oKzyD9iW/WgXf2DhjvX/TFpM0GisxuxUdFKM/Jsx78="
+          "hash": "xdznZ19qXX6h6Qf0wxoAWYValPPur8BryME3LYdebzI="
         }
       },
       "is_incremental": false,
@@ -119926,7 +119926,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.BaseComponents.LottieAnimationView.StopBehaviorType.html",
-          "hash": "41UZNIV4XHcKrFbI/x8gdayD7pe7orYkvl7sjwRVj9U="
+          "hash": "IFgBoV3jFXAP9NH1t4+YD/fENLWI94skIZwo6WboPts="
         }
       },
       "is_incremental": false,
@@ -119939,7 +119939,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.BaseComponents.LottieAnimationView.html",
-          "hash": "DLNmW1riHvZKaGwFsgAoJYpGhezuRz6D6z1JCugi8qA="
+          "hash": "JOnZ6MTCSVUXqXhS/Di+MtRluQzAuVm4Wg8Hd4EBQAc="
         }
       },
       "is_incremental": false,
@@ -120043,7 +120043,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.BaseComponents.TextEditor.html",
-          "hash": "lZhRQVZtfLFtR9E/Lv9n2pgPGIFlMF0WAlvdskZZOOs="
+          "hash": "KQyAVAeI5x8IncOnd3P5lGGBBGdHsqRBpeSiB6naKbo="
         }
       },
       "is_incremental": false,
@@ -120082,7 +120082,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.BaseComponents.TextField.html",
-          "hash": "D2nTOzKAc/6LqhUF2ziZPuItS8n8pUSh9zUsC81B4xo="
+          "hash": "Ug7ihHb/TdhuXonCPeBpspfYvXQx1ZyHNjSPEhPLhX4="
         }
       },
       "is_incremental": false,
@@ -120095,7 +120095,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.BaseComponents.TextLabel.html",
-          "hash": "GBT3NbAN3lF8VgDDm/f/m/OjCObdOvmeSUbyzKJ3Ujw="
+          "hash": "Ln+woMFNJa73QBpw6ajcmVi1sLeQDuG8FdVT0VA/D90="
         }
       },
       "is_incremental": false,
@@ -120485,7 +120485,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.BaseComponents.View.html",
-          "hash": "6rF16K5SyBasB2T42HAPy7nW/B76PXnRunjZRkSjnvY="
+          "hash": "COyjpCovzCTFdrQ1MIWQnurlDbPnwx+ouY4yhQa68Po="
         }
       },
       "is_incremental": false,
@@ -122032,7 +122032,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.DisposeTypes.html",
-          "hash": "o6JWst20b4xCXbZI2EHG3UacKh6+ck8qy2eZl1T6IE8="
+          "hash": "6khBDw/dczE5F7FxvKsPcNBOQpvJodU3E7g2tLelkvM="
         }
       },
       "is_incremental": false,
@@ -122149,7 +122149,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.EllipsisPosition.html",
-          "hash": "chp2D+YKc32DbBYrRArHwEGoE07/veQ03FiN78kWXXE="
+          "hash": "ZzLlT4vtY4ZdNKKBoT5099tEoswW5fXpIZbSoeyd+jg="
         }
       },
       "is_incremental": false,
@@ -122448,7 +122448,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.FontSizeScale.html",
-          "hash": "5lai7fyr2Owxj0lcW6dlM6TenBJ84S/1fwlRU6w8Tb0="
+          "hash": "LMGsZIcr4P19fqPRW4eCXvqFVqPBuxdbKp+MFhjV2cA="
         }
       },
       "is_incremental": false,
@@ -122461,7 +122461,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.FontSlantType.html",
-          "hash": "vuJODOdSLwE0K/iBEKZasfDvWBcRuCNKAFnNyTuMHXg="
+          "hash": "EZGFimbtrhbJdaRwXmEbS3MEnTlY8SocdHTtS4i5PC0="
         }
       },
       "is_incremental": false,
@@ -122474,7 +122474,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.FontWeightType.html",
-          "hash": "khgh3fLKsyfRP1BGhmGjGyUn6Msh1ONB/wkfwXjf6g0="
+          "hash": "stSesM9gBGg32lRcT3s9NNrk+yCCiEIYityFF8bo7nA="
         }
       },
       "is_incremental": false,
@@ -122487,7 +122487,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.FontWidthType.html",
-          "hash": "jC13wbpOJROD28RWe4jGrcNr1267nMIxGQLB3BsqRiM="
+          "hash": "9aYxbpqd3Q+yL7RZGxs00E26r8eEv51HMNJ0+6XIWbY="
         }
       },
       "is_incremental": false,
@@ -122500,7 +122500,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.GLESVersion.html",
-          "hash": "EavRWKQLGIMB/vfTs9R0O8I8LQ+MF+f/aIudZtFeFT0="
+          "hash": "8HPWQdOPo9z7Xyu6sUfLeX+j1gAnZvXPZnM/5zLnm8U="
         }
       },
       "is_incremental": false,
@@ -122513,7 +122513,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.GLRenderingMode.html",
-          "hash": "J1ZQruuxrUolkD+BOAL1ifBxvdx3rNVfEM3FOPy+hiM="
+          "hash": "XV7Cfq9zZiBBpzXqxxYWLtaJ9XCJs6eZ6pgZz2ZUtE8="
         }
       },
       "is_incremental": false,
@@ -122604,7 +122604,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.GlyphType.html",
-          "hash": "THkI5EGXKOYxmPox9KG+okbspEip8R9CNmI0gpz8iAI="
+          "hash": "xS2tsgtxegJnAxMhunII5vMghqMY718wabkI3SSbYOE="
         }
       },
       "is_incremental": false,
@@ -122721,7 +122721,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.HiddenInputModeType.html",
-          "hash": "S70Ppxz/nIDQltw8sbhjuf5j+QIDJNqaUWLA0QzBVZA="
+          "hash": "oGKyjzNmwPSwuAllHkMLFfJefvzmoOKlt3FUIKyJj5o="
         }
       },
       "is_incremental": false,
@@ -122734,7 +122734,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.HiddenInputProperty.html",
-          "hash": "3FxCW6xOZ20XlhqFWQmKqgQ5kbdmVQCN8GyKQY9nmfU="
+          "hash": "bLmjoQZ4FKV9GRqHKzHc+I4cBzsNvTD3YOtG4d/UaL4="
         }
       },
       "is_incremental": false,
@@ -122760,7 +122760,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.HorizontalAlignmentType.html",
-          "hash": "WJry1+UiBcEpPi9KMHDrf0b8X/+HGC5JL948RptsrKI="
+          "hash": "E/aMp/gq86D039t2WemlqdYIlOpBgQsRQBep1KeVFIU="
         }
       },
       "is_incremental": false,
@@ -122838,7 +122838,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.InputFilterType.html",
-          "hash": "WAKu1ULWZ99QJPm9BP3hrTRfwpLuW5lghx31AT7UrXk="
+          "hash": "xbqfCO+bSnfmO2eKCAnAe+Vjf+pZjn0u3zTUqqSBoX0="
         }
       },
       "is_incremental": false,
@@ -123267,7 +123267,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.LineWrapMode.html",
-          "hash": "tfIeqvzdESv4tuSUBTEkacUttq6C2svsM4ShyvXURzU="
+          "hash": "QYCmzrsvFRHdt7NpIoUAb4kj3ce6S3A1wm+p/TJcrFY="
         }
       },
       "is_incremental": false,
@@ -123449,7 +123449,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.NUIApplication.WindowMode.html",
-          "hash": "Q4CZVSBhDzanIn2bay5fr/wVl8Ml1RPovW6ts3XaNys="
+          "hash": "PvbBx+/cSydYv50m88c6+icRmKI4cGhubmJybdBrDsI="
         }
       },
       "is_incremental": false,
@@ -123462,7 +123462,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.NUIApplication.html",
-          "hash": "BmTciwjLFYmJx8oreI9RYDEtjIBkgrVQ+UVZQ2Ko7do="
+          "hash": "6+7GA/XhJmkPfI9schIWU9MVsdGjHjGXbq3VzJl28FY="
         }
       },
       "is_incremental": false,
@@ -123553,7 +123553,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.NotificationLevel.html",
-          "hash": "oel54bYiApnq/dWusCfFqAeJFwVQw++V0HSHo/VdNQo="
+          "hash": "/8XJIW+yGm1Epl96NpE6da88aFTtCD3kxEpuzwo10wA="
         }
       },
       "is_incremental": false,
@@ -123631,7 +123631,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.ParentOrigin.html",
-          "hash": "uHtiYwDYX27yk/ezCdcFbo+SL7HItq+pdymsmp3nB6c="
+          "hash": "HjLPFUi4tgZtFzxW9nNH/Nx/8O2gFToz7Te2fNudAAs="
         }
       },
       "is_incremental": false,
@@ -123670,7 +123670,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.PivotPoint.html",
-          "hash": "ewnTSVp+lfejenSidPV8yWFkWyrfbtOC9CeyxWwtSgY="
+          "hash": "WNzEptIuy6/QXp/z9IEncym3NxxfIngzBwViYdlmEaU="
         }
       },
       "is_incremental": false,
@@ -123696,7 +123696,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.PointStateType.html",
-          "hash": "A/3P2gvPbybRsJu23O2EB6zVBOsGHhl7ySuTLA9sR1c="
+          "hash": "tJkbWmcbtnL+ANsdX2PtXo1CPIBdMZZIbRqwiJKGrZI="
         }
       },
       "is_incremental": false,
@@ -123735,7 +123735,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.PositionAxis.html",
-          "hash": "SQSEv/n4yZcA61H2kXwKT1gwYaTL+pWzfEDQq9L6lZc="
+          "hash": "GAu0+sstxyg388kgNeQqff/w3GOye1t4BrGUEFAjUL4="
         }
       },
       "is_incremental": false,
@@ -123800,7 +123800,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.PropertyAccessMode.html",
-          "hash": "jhaEYQRbK7RKl4avTNOHbCvneviZw+WSiRhg3Gz3Mwg="
+          "hash": "V8tPJm7TZQtsNRp4j33R4wa62oFEm30Iqfkqntf8xJk="
         }
       },
       "is_incremental": false,
@@ -123930,7 +123930,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.PropertyType.html",
-          "hash": "RkfD1FfdB6/ntNxufLkcL1cvkL47spm0bGFuVIzG7+Q="
+          "hash": "NDWGb+EfwPMW/T8htpevLYbh2XQKnDW+Ks5sirm1xxQ="
         }
       },
       "is_incremental": false,
@@ -124086,7 +124086,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.RenderingBehaviorType.html",
-          "hash": "DHDabuR8oC1f/O/VVAhQEzUL7NDlWjN2990mFm/bhXE="
+          "hash": "nur5uld+Pdtd0B/UPQykBGwhcxSDBosZDULLUjY7H+k="
         }
       },
       "is_incremental": false,
@@ -124346,7 +124346,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.ScreenOffMode.html",
-          "hash": "ta4f9DZuWptxS9MMBv+09q9aOh9XMnyNTiy9KfbzTmE="
+          "hash": "nsX2ne1qDUsUpLfuk1YZ3ePsVDTfRImbMWNKQrEhNsM="
         }
       },
       "is_incremental": false,
@@ -124398,7 +124398,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.ScrollState.html",
-          "hash": "Y7xRZPKod7h6SsIOPL9gxCRFdpVHJSaJptr7I1hm17s="
+          "hash": "7lq4BNhv8j4BlO0diZ9w92aNm+2mH/KLrA0OgHwsRR8="
         }
       },
       "is_incremental": false,
@@ -124554,7 +124554,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.StyleChangeType.html",
-          "hash": "IUx3jy4QcH398xlVZu4ZhpZgmFToXOyKgmCtvTD/n8o="
+          "hash": "RR+KI+gvv0js8540rp5yLAJWvcN1xB7B3bvADZEyQAw="
         }
       },
       "is_incremental": false,
@@ -124684,7 +124684,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.TextDirection.html",
-          "hash": "GAm4hGlc2fTTDli+qG45srxdYU4FhZtdDjE6imegfeI="
+          "hash": "19O17Yot+yv5O6iNjPREjVg9o+Avm8haA52HJ+URAhw="
         }
       },
       "is_incremental": false,
@@ -125022,7 +125022,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.VerticalAlignmentType.html",
-          "hash": "tzAHie3e8AMnkYFzS9WgR19O2vyn3xywPQEkceDaVA8="
+          "hash": "grzUUcV5gdwyq1HVGpSxCZeM6puHVeK1AkwrUo/49rY="
         }
       },
       "is_incremental": false,
@@ -125035,7 +125035,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.VerticalLineAlignment.html",
-          "hash": "pxSxBwyqwNG5OfkjTknCVVSzJ5+Tv3bEmcvFXxmcJ9I="
+          "hash": "V7TZlzv9k9D9ngHnPAGoc96/AXulqTBikabFrXn5F38="
         }
       },
       "is_incremental": false,
@@ -125607,7 +125607,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.WindowType.html",
-          "hash": "be6NF0lK3kRMGB6YyN8feqm4aFSNrjRjh8EVPaeyPUg="
+          "hash": "Z18KEHXGOUO8Os1T5qNMEJsHbUD/V8rm5fzyIUGFaro="
         }
       },
       "is_incremental": false,
