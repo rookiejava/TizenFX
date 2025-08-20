@@ -51509,6 +51509,11 @@
     "title": "Class NetworkWifiNotificationSettingChangedEventArgs",
     "keywords": ""
   },
+  "API13/api/Tizen.System.OobeChangedEventArgs.html": {
+    "href": "API13/api/Tizen.System.OobeChangedEventArgs.html",
+    "title": "Class OobeChangedEventArgs",
+    "keywords": ""
+  },
   "API13/api/Tizen.System.Power.html": {
     "href": "API13/api/Tizen.System.Power.html",
     "title": "Class Power",

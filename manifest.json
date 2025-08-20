@@ -133923,6 +133923,19 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "obj/API13/api/Tizen.System.OobeChangedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API13/api/Tizen.System.OobeChangedEventArgs.html",
+          "hash": "0jVm+JYq3fgMZc5q/FGotdZeyWHoC6USpQjubddU7eU="
+        }
+      },
+      "is_incremental": false,
+      "version": "API13",
+      "group": "API13"
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "obj/API13/api/Tizen.System.Power.yml",
       "output": {
         ".html": {
@@ -134200,7 +134213,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.System.SystemSettings.html",
-          "hash": "SPTrPkIO6zM1tFIlLm3747PQd5BTyOZYg3vS6zBntlc="
+          "hash": "PuIvFsuy+RHKWjjqSkJwwjfV0OMcxwIeOJ5VmSefUxE="
         }
       },
       "is_incremental": false,
@@ -134213,7 +134226,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.System.SystemSettingsFontSize.html",
-          "hash": "IJELZEgbOY4ER/iduWV7bugm1yI+I8C0Hz594bY4Pmk="
+          "hash": "hug/8BHrzJGfW4jwoEazW0HdZdb6+ZMFBh5EnZcT0wo="
         }
       },
       "is_incremental": false,
@@ -134226,7 +134239,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.System.SystemSettingsIdleLockState.html",
-          "hash": "hwR/2z/9LDqJ8Iymk/esQhiFHUkMg7mhxrFjg/V4+PQ="
+          "hash": "8m8iYlwP76+kzuwM/o4w7Pf74Q0Inh3wqCJbEz49G5c="
         }
       },
       "is_incremental": false,
@@ -134239,7 +134252,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.System.SystemSettingsKeys.html",
-          "hash": "KqoIcXHPyjiKZNeEovqEB7rJR4Dwi7HEKSW3GPpKM/I="
+          "hash": "kzHTyGVn+gZOv67RIt6PcGa4iYKcSpAImqgNmgtUbGc="
         }
       },
       "is_incremental": false,
@@ -134252,7 +134265,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.System.SystemSettingsUdsState.html",
-          "hash": "2FMsdQewRMqj3hvr3qEpV03qjqRX5VMGoQEkMr6kjGE="
+          "hash": "Z5fojE7f4Aak1suh0UETkgTyqc3iY7PmdQHt+iGqpiY="
         }
       },
       "is_incremental": false,
@@ -134590,7 +134603,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.System.html",
-          "hash": "U5oXP2/USc4bGM4tRVFwW5mLUFN5B4YuydjREHoNSdE="
+          "hash": "DdUdJ48pJNbsINXXqw+d0xGZh5CPqFuBZG9loRxGTMQ="
         }
       },
       "is_incremental": false,
@@ -137021,7 +137034,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/toc.html",
-          "hash": "DWp0NH7fjBQRwUJ/TV0K7GitdS4htKMHkksT5mJ/33Q="
+          "hash": "rN6sMN5yHaBIV+UhkSWDvFtQvKJREq2vBC4wCTqML3M="
         }
       },
       "is_incremental": false,
@@ -315513,7 +315526,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 2669,
+          "total_file_count": 2670,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

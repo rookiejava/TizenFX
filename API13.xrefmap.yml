@@ -181407,6 +181407,25 @@ references:
   isSpec: "True"
   fullName: Tizen.System.NetworkWifiNotificationSettingChangedEventArgs.Value
   nameWithType: NetworkWifiNotificationSettingChangedEventArgs.Value
+- uid: Tizen.System.OobeChangedEventArgs
+  name: OobeChangedEventArgs
+  href: API13/api/Tizen.System.OobeChangedEventArgs.html
+  commentId: T:Tizen.System.OobeChangedEventArgs
+  fullName: Tizen.System.OobeChangedEventArgs
+  nameWithType: OobeChangedEventArgs
+- uid: Tizen.System.OobeChangedEventArgs.Value
+  name: Value
+  href: API13/api/Tizen.System.OobeChangedEventArgs.html#Tizen_System_OobeChangedEventArgs_Value
+  commentId: P:Tizen.System.OobeChangedEventArgs.Value
+  fullName: Tizen.System.OobeChangedEventArgs.Value
+  nameWithType: OobeChangedEventArgs.Value
+- uid: Tizen.System.OobeChangedEventArgs.Value*
+  name: Value
+  href: API13/api/Tizen.System.OobeChangedEventArgs.html#Tizen_System_OobeChangedEventArgs_Value_
+  commentId: Overload:Tizen.System.OobeChangedEventArgs.Value
+  isSpec: "True"
+  fullName: Tizen.System.OobeChangedEventArgs.Value
+  nameWithType: OobeChangedEventArgs.Value
 - uid: Tizen.System.Power
   name: Power
   href: API13/api/Tizen.System.Power.html
@@ -182988,6 +183007,25 @@ references:
   commentId: E:Tizen.System.SystemSettings.NetworkWifiNotificationSettingChanged
   fullName: Tizen.System.SystemSettings.NetworkWifiNotificationSettingChanged
   nameWithType: SystemSettings.NetworkWifiNotificationSettingChanged
+- uid: Tizen.System.SystemSettings.Oobe
+  name: Oobe
+  href: API13/api/Tizen.System.SystemSettings.html#Tizen_System_SystemSettings_Oobe
+  commentId: P:Tizen.System.SystemSettings.Oobe
+  fullName: Tizen.System.SystemSettings.Oobe
+  nameWithType: SystemSettings.Oobe
+- uid: Tizen.System.SystemSettings.Oobe*
+  name: Oobe
+  href: API13/api/Tizen.System.SystemSettings.html#Tizen_System_SystemSettings_Oobe_
+  commentId: Overload:Tizen.System.SystemSettings.Oobe
+  isSpec: "True"
+  fullName: Tizen.System.SystemSettings.Oobe
+  nameWithType: SystemSettings.Oobe
+- uid: Tizen.System.SystemSettings.OobeChanged
+  name: OobeChanged
+  href: API13/api/Tizen.System.SystemSettings.html#Tizen_System_SystemSettings_OobeChanged
+  commentId: E:Tizen.System.SystemSettings.OobeChanged
+  fullName: Tizen.System.SystemSettings.OobeChanged
+  nameWithType: SystemSettings.OobeChanged
 - uid: Tizen.System.SystemSettings.RotaryEventEnabled
   name: RotaryEventEnabled
   href: API13/api/Tizen.System.SystemSettings.html#Tizen_System_SystemSettings_RotaryEventEnabled
@@ -183451,6 +183489,12 @@ references:
   commentId: F:Tizen.System.SystemSettingsKeys.NetworkWifiNotificationEnabled
   fullName: Tizen.System.SystemSettingsKeys.NetworkWifiNotificationEnabled
   nameWithType: SystemSettingsKeys.NetworkWifiNotificationEnabled
+- uid: Tizen.System.SystemSettingsKeys.Oobe
+  name: Oobe
+  href: API13/api/Tizen.System.SystemSettingsKeys.html#Tizen_System_SystemSettingsKeys_Oobe
+  commentId: F:Tizen.System.SystemSettingsKeys.Oobe
+  fullName: Tizen.System.SystemSettingsKeys.Oobe
+  nameWithType: SystemSettingsKeys.Oobe
 - uid: Tizen.System.SystemSettingsKeys.RotaryEventEnabled
   name: RotaryEventEnabled
   href: API13/api/Tizen.System.SystemSettingsKeys.html#Tizen_System_SystemSettingsKeys_RotaryEventEnabled
