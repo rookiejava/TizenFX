@@ -112101,6 +112101,19 @@ references:
   isSpec: "True"
   fullName: Tizen.Network.WiFi.WiFiManager.MacAddress
   nameWithType: WiFiManager.MacAddress
+- uid: Tizen.Network.WiFi.WiFiManager.RemoveWiFiConfiguration(Tizen.Network.WiFi.WiFiConfiguration)
+  name: RemoveWiFiConfiguration(WiFiConfiguration)
+  href: API13/api/Tizen.Network.WiFi.WiFiManager.html#Tizen_Network_WiFi_WiFiManager_RemoveWiFiConfiguration_Tizen_Network_WiFi_WiFiConfiguration_
+  commentId: M:Tizen.Network.WiFi.WiFiManager.RemoveWiFiConfiguration(Tizen.Network.WiFi.WiFiConfiguration)
+  fullName: Tizen.Network.WiFi.WiFiManager.RemoveWiFiConfiguration(Tizen.Network.WiFi.WiFiConfiguration)
+  nameWithType: WiFiManager.RemoveWiFiConfiguration(WiFiConfiguration)
+- uid: Tizen.Network.WiFi.WiFiManager.RemoveWiFiConfiguration*
+  name: RemoveWiFiConfiguration
+  href: API13/api/Tizen.Network.WiFi.WiFiManager.html#Tizen_Network_WiFi_WiFiManager_RemoveWiFiConfiguration_
+  commentId: Overload:Tizen.Network.WiFi.WiFiManager.RemoveWiFiConfiguration
+  isSpec: "True"
+  fullName: Tizen.Network.WiFi.WiFiManager.RemoveWiFiConfiguration
+  nameWithType: WiFiManager.RemoveWiFiConfiguration
 - uid: Tizen.Network.WiFi.WiFiManager.RssiLevelChanged
   name: RssiLevelChanged
   href: API13/api/Tizen.Network.WiFi.WiFiManager.html#Tizen_Network_WiFi_WiFiManager_RssiLevelChanged
