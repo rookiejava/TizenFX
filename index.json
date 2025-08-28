@@ -47099,6 +47099,61 @@
     "title": "Enum TimePeriodType",
     "keywords": ""
   },
+  "API13/api/Tizen.Network.Tethering.ConnectionStateChangedEventArgs.html": {
+    "href": "API13/api/Tizen.Network.Tethering.ConnectionStateChangedEventArgs.html",
+    "title": "Class ConnectionStateChangedEventArgs",
+    "keywords": ""
+  },
+  "API13/api/Tizen.Network.Tethering.html": {
+    "href": "API13/api/Tizen.Network.Tethering.html",
+    "title": "Namespace Tizen.Network.Tethering",
+    "keywords": ""
+  },
+  "API13/api/Tizen.Network.Tethering.TetheringDisabledCause.html": {
+    "href": "API13/api/Tizen.Network.Tethering.TetheringDisabledCause.html",
+    "title": "Enum TetheringDisabledCause",
+    "keywords": ""
+  },
+  "API13/api/Tizen.Network.Tethering.TetheringError.html": {
+    "href": "API13/api/Tizen.Network.Tethering.TetheringError.html",
+    "title": "Enum TetheringError",
+    "keywords": ""
+  },
+  "API13/api/Tizen.Network.Tethering.TetheringExtensionClient.html": {
+    "href": "API13/api/Tizen.Network.Tethering.TetheringExtensionClient.html",
+    "title": "Class TetheringExtensionClient",
+    "keywords": ""
+  },
+  "API13/api/Tizen.Network.Tethering.TetheringExtensionDisabledEventArgs.html": {
+    "href": "API13/api/Tizen.Network.Tethering.TetheringExtensionDisabledEventArgs.html",
+    "title": "Class TetheringExtensionDisabledEventArgs",
+    "keywords": ""
+  },
+  "API13/api/Tizen.Network.Tethering.TetheringExtensionEnabledEventArgs.html": {
+    "href": "API13/api/Tizen.Network.Tethering.TetheringExtensionEnabledEventArgs.html",
+    "title": "Class TetheringExtensionEnabledEventArgs",
+    "keywords": ""
+  },
+  "API13/api/Tizen.Network.Tethering.TetheringExtensionManager.html": {
+    "href": "API13/api/Tizen.Network.Tethering.TetheringExtensionManager.html",
+    "title": "Class TetheringExtensionManager",
+    "keywords": ""
+  },
+  "API13/api/Tizen.Network.Tethering.TetheringInfo.html": {
+    "href": "API13/api/Tizen.Network.Tethering.TetheringInfo.html",
+    "title": "Class TetheringInfo",
+    "keywords": ""
+  },
+  "API13/api/Tizen.Network.Tethering.TetheringSecurityType.html": {
+    "href": "API13/api/Tizen.Network.Tethering.TetheringSecurityType.html",
+    "title": "Enum TetheringSecurityType",
+    "keywords": ""
+  },
+  "API13/api/Tizen.Network.Tethering.TetheringType.html": {
+    "href": "API13/api/Tizen.Network.Tethering.TetheringType.html",
+    "title": "Enum TetheringType",
+    "keywords": ""
+  },
   "API13/api/Tizen.Network.WiFi.ConnectionStateChangedEventArgs.html": {
     "href": "API13/api/Tizen.Network.WiFi.ConnectionStateChangedEventArgs.html",
     "title": "Class ConnectionStateChangedEventArgs",
