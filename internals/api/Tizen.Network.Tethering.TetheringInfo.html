@@ -4,13 +4,13 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Class TetheringExtensionEnabledEventArgs
+    <title>Class TetheringInfo
  </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Class TetheringExtensionEnabledEventArgs
+    <meta name="title" content="Class TetheringInfo
  ">
     <meta name="generator" content="docfx ">
-    <meta name="version" content="API13">
+    <meta name="version" content="internals">
   
     <link rel="shortcut icon" href="../../images/tizen_favicon.ico">
     <link rel="stylesheet" href="../../styles/docfx.vendor.css">
@@ -44,29 +44,29 @@
           <main class="col-md-9 col-xl-8 layout--column is-content">
             <div id="printableArea" class="md-content-wrapper">
 
-              <nav id="td_docs-breadcrumb" aria-label="breadcrumb"></nav>              <section class="content wrap" id="_content" data-uid="Tizen.Network.Tethering.TetheringExtensionEnabledEventArgs">
+              <nav id="td_docs-breadcrumb" aria-label="breadcrumb"></nav>              <section class="content wrap" id="_content" data-uid="Tizen.Network.Tethering.TetheringInfo">
 
   <div class="entity">
 
   <div class="entity-header w-100 d-flex justify-content-between">
-    <h1 id="Tizen_Network_Tethering_TetheringExtensionEnabledEventArgs" data-uid="Tizen.Network.Tethering.TetheringExtensionEnabledEventArgs" class="mt-0 text-break"><span class="entity-type">Class</span>
-TetheringExtensionEnabledEventArgs
+    <h1 id="Tizen_Network_Tethering_TetheringInfo" data-uid="Tizen.Network.Tethering.TetheringInfo" class="mt-0 text-break"><span class="entity-type">Class</span>
+TetheringInfo
 </h1>
       <div class="contribution align-self-end">
-        <a href="https://github.com/Samsung/TizenFX/blob/main/src/Tizen.Network.Tethering/Tizen.Network.Tethering/TetheringExtensionEnabledEventArgs.cs/#L9" class="contribution-link">View Source</a>
+        <a href="https://github.com/Samsung/TizenFX/blob/main/internals/src/Tizen.Network.Tethering/Tizen.Network.Tethering/TetheringInfo.cs/#L12" class="contribution-link">View Source</a>
       </div>
   </div>
   <h3 class="hidden-anchor m-0" id="definition"><a href="#definition"></a>Definition</h3>
 
-  <dl class="attribute-list"><dt>Namespace:</dt><dd id="parent-namespace"><a class="xref" href="Tizen.html">Tizen</a>.<span class="xref">Network</span>.<a class="xref" href="Tizen.Network.Tethering.html">Tethering</a></dd></dl>
+  <dl class="attribute-list"><dt>Namespace:</dt><dd id="parent-namespace"><span class="xref">Tizen</span>.<span class="xref">Network</span>.<a class="xref" href="Tizen.Network.Tethering.html">Tethering</a></dd></dl>
   <dl class="attribute-list"><dt>Assembly:</dt><dd>Tizen.Network.Tethering.dll</dd></dl>
 
-  <div class="markdown level0 summary"><p>This class contains Tethering enabled event data.</p>
+  <div class="markdown level0 summary"><p>This class contains tethering info.</p>
 </div>
   <div class="markdown level0 conceptual"></div>
 
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public class TetheringExtensionEnabledEventArgs : EventArgs</code></pre>
+    <pre><code class="lang-csharp hljs">public class TetheringInfo</code></pre>
   </div>
 
 
@@ -75,8 +75,7 @@ TetheringExtensionEnabledEventArgs
     <dd>
       <div class="pdl-holder">
         <div class="pdl"><span class="xref">object</span></div>
-        <div class="pdl"><span class="xref">System.EventArgs</span></div>
-        <div><span class="xref">TetheringExtensionEnabledEventArgs</span></div>
+        <div><span class="xref">TetheringInfo</span></div>
       </div>
     </dd>
   </dl>
@@ -88,21 +87,21 @@ TetheringExtensionEnabledEventArgs
   <h2 id="properties">Properties
 </h2>
 
-  <a id="Tizen_Network_Tethering_TetheringExtensionEnabledEventArgs_Requested_" data-uid="Tizen.Network.Tethering.TetheringExtensionEnabledEventArgs.Requested*"></a>
+  <a id="Tizen_Network_Tethering_TetheringInfo_Passphrase_" data-uid="Tizen.Network.Tethering.TetheringInfo.Passphrase*"></a>
   <div class="entity-child">
     <span class="pull-right mobile-hide view-source">
-      <a href="https://github.com/Samsung/TizenFX/blob/main/src/Tizen.Network.Tethering/Tizen.Network.Tethering/TetheringExtensionEnabledEventArgs.cs/#L36">View Source</a>
+      <a href="https://github.com/Samsung/TizenFX/blob/main/internals/src/Tizen.Network.Tethering/Tizen.Network.Tethering/TetheringInfo.cs/#L39">View Source</a>
     </span>
-    <h4 id="Tizen_Network_Tethering_TetheringExtensionEnabledEventArgs_Requested" data-uid="Tizen.Network.Tethering.TetheringExtensionEnabledEventArgs.Requested">Requested</h4>
+    <h4 id="Tizen_Network_Tethering_TetheringInfo_Passphrase" data-uid="Tizen.Network.Tethering.TetheringInfo.Passphrase">Passphrase</h4>
     <section>
-    <p>This function returns wether Requested or not.</p>
+    <p>Gets the IP Address of the connected/disconnected client.</p>
 
     </section>
   </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public bool Requested { get; }</code></pre>
+    <pre><code class="lang-csharp hljs">public string Passphrase { get; }</code></pre>
   </div>
   <h5 class="propertyValue">Property Value</h5>
   <table class="table">
@@ -114,7 +113,7 @@ TetheringExtensionEnabledEventArgs
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">bool</span></td>
+        <td><span class="xref">string</span></td>
         <td></td>
       </tr>
     </tbody>
@@ -122,21 +121,21 @@ TetheringExtensionEnabledEventArgs
 
 
 
-  <a id="Tizen_Network_Tethering_TetheringExtensionEnabledEventArgs_Result_" data-uid="Tizen.Network.Tethering.TetheringExtensionEnabledEventArgs.Result*"></a>
+  <a id="Tizen_Network_Tethering_TetheringInfo_Ssid_" data-uid="Tizen.Network.Tethering.TetheringInfo.Ssid*"></a>
   <div class="entity-child">
     <span class="pull-right mobile-hide view-source">
-      <a href="https://github.com/Samsung/TizenFX/blob/main/src/Tizen.Network.Tethering/Tizen.Network.Tethering/TetheringExtensionEnabledEventArgs.cs/#L24">View Source</a>
+      <a href="https://github.com/Samsung/TizenFX/blob/main/internals/src/Tizen.Network.Tethering/Tizen.Network.Tethering/TetheringInfo.cs/#L28">View Source</a>
     </span>
-    <h4 id="Tizen_Network_Tethering_TetheringExtensionEnabledEventArgs_Result" data-uid="Tizen.Network.Tethering.TetheringExtensionEnabledEventArgs.Result">Result</h4>
+    <h4 id="Tizen_Network_Tethering_TetheringInfo_Ssid" data-uid="Tizen.Network.Tethering.TetheringInfo.Ssid">Ssid</h4>
     <section>
-    <p>This function returns wether tethering was successfully enabled or not.</p>
+    <p>Gets the IP Address of the connected/disconnected client.</p>
 
     </section>
   </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public int Result { get; }</code></pre>
+    <pre><code class="lang-csharp hljs">public string Ssid { get; }</code></pre>
   </div>
   <h5 class="propertyValue">Property Value</h5>
   <table class="table">
@@ -148,7 +147,7 @@ TetheringExtensionEnabledEventArgs
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">int</span></td>
+        <td><span class="xref">string</span></td>
         <td></td>
       </tr>
     </tbody>

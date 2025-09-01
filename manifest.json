@@ -128658,149 +128658,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "obj/API13/api/Tizen.Network.Tethering.ConnectionStateChangedEventArgs.yml",
-      "output": {
-        ".html": {
-          "relative_path": "API13/api/Tizen.Network.Tethering.ConnectionStateChangedEventArgs.html",
-          "hash": "Cqxiji2LjP06Dh4WXruNZZln+/fzbv/KX0vuSwrRoHk="
-        }
-      },
-      "is_incremental": false,
-      "version": "API13",
-      "group": "API13"
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "obj/API13/api/Tizen.Network.Tethering.TetheringDisabledCause.yml",
-      "output": {
-        ".html": {
-          "relative_path": "API13/api/Tizen.Network.Tethering.TetheringDisabledCause.html",
-          "hash": "QHQIL34TVZ8LD4cSqwrzTaoI2hCb1E7b9gjxF5Iw0w0="
-        }
-      },
-      "is_incremental": false,
-      "version": "API13",
-      "group": "API13"
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "obj/API13/api/Tizen.Network.Tethering.TetheringError.yml",
-      "output": {
-        ".html": {
-          "relative_path": "API13/api/Tizen.Network.Tethering.TetheringError.html",
-          "hash": "34ngLliWF6G0I8ntyMdKY1wHfWS59woIQRvYwEomaIQ="
-        }
-      },
-      "is_incremental": false,
-      "version": "API13",
-      "group": "API13"
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "obj/API13/api/Tizen.Network.Tethering.TetheringExtensionClient.yml",
-      "output": {
-        ".html": {
-          "relative_path": "API13/api/Tizen.Network.Tethering.TetheringExtensionClient.html",
-          "hash": "atvH6uyYX6SjB2qju8GVGK3G+qSMaEoQqgOrrWXoSnU="
-        }
-      },
-      "is_incremental": false,
-      "version": "API13",
-      "group": "API13"
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "obj/API13/api/Tizen.Network.Tethering.TetheringExtensionDisabledEventArgs.yml",
-      "output": {
-        ".html": {
-          "relative_path": "API13/api/Tizen.Network.Tethering.TetheringExtensionDisabledEventArgs.html",
-          "hash": "iryxLCcPHWLKytvvoIkMyGpV68r+2xkDLfV3ckTP9p8="
-        }
-      },
-      "is_incremental": false,
-      "version": "API13",
-      "group": "API13"
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "obj/API13/api/Tizen.Network.Tethering.TetheringExtensionEnabledEventArgs.yml",
-      "output": {
-        ".html": {
-          "relative_path": "API13/api/Tizen.Network.Tethering.TetheringExtensionEnabledEventArgs.html",
-          "hash": "dzhBcy+Bhyi2UyE+i+cbksukTiadOWYWRzBiAqhi7Do="
-        }
-      },
-      "is_incremental": false,
-      "version": "API13",
-      "group": "API13"
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "obj/API13/api/Tizen.Network.Tethering.TetheringExtensionManager.yml",
-      "output": {
-        ".html": {
-          "relative_path": "API13/api/Tizen.Network.Tethering.TetheringExtensionManager.html",
-          "hash": "9miGLl+HvcsRCSzh5VSkRmEVYpMhLBUHNWspwQqbfX4="
-        }
-      },
-      "is_incremental": false,
-      "version": "API13",
-      "group": "API13"
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "obj/API13/api/Tizen.Network.Tethering.TetheringInfo.yml",
-      "output": {
-        ".html": {
-          "relative_path": "API13/api/Tizen.Network.Tethering.TetheringInfo.html",
-          "hash": "XQVGkbsoIOijGyeARNUFU0+uejCJUMj3bgZubyGCS6A="
-        }
-      },
-      "is_incremental": false,
-      "version": "API13",
-      "group": "API13"
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "obj/API13/api/Tizen.Network.Tethering.TetheringSecurityType.yml",
-      "output": {
-        ".html": {
-          "relative_path": "API13/api/Tizen.Network.Tethering.TetheringSecurityType.html",
-          "hash": "91lRganmCCqqA8rM2QfmRJahsrLwhk1hzQXlTae5610="
-        }
-      },
-      "is_incremental": false,
-      "version": "API13",
-      "group": "API13"
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "obj/API13/api/Tizen.Network.Tethering.TetheringType.yml",
-      "output": {
-        ".html": {
-          "relative_path": "API13/api/Tizen.Network.Tethering.TetheringType.html",
-          "hash": "sUngdbXBwy/rB1XeWsoS7y/sWU5F5vQzY1N4xASVMMA="
-        }
-      },
-      "is_incremental": false,
-      "version": "API13",
-      "group": "API13"
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "obj/API13/api/Tizen.Network.Tethering.yml",
-      "output": {
-        ".html": {
-          "relative_path": "API13/api/Tizen.Network.Tethering.html",
-          "hash": "j4oyRe55lyISHQH1hf7jtbyf12lhKuiZOItie3WyZKQ="
-        }
-      },
-      "is_incremental": false,
-      "version": "API13",
-      "group": "API13"
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "obj/API13/api/Tizen.Network.WiFi.ConnectionStateChangedEventArgs.yml",
       "output": {
         ".html": {
@@ -137177,7 +137034,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/toc.html",
-          "hash": "d+R0E7OJWDBTFel7BZ9AFGLHyl7CgnbsVNE3cr1BNz0="
+          "hash": "rN6sMN5yHaBIV+UhkSWDvFtQvKJREq2vBC4wCTqML3M="
         }
       },
       "is_incremental": false,
@@ -314610,6 +314467,149 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Network.Tethering.ConnectionStateChangedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Network.Tethering.ConnectionStateChangedEventArgs.html",
+          "hash": "wBEXmG5ie1xlkBb4upaQn1YSRfCdj84ICeZo4m0mtuA="
+        }
+      },
+      "is_incremental": false,
+      "version": "internals",
+      "group": "internals"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Network.Tethering.TetheringDisabledCause.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Network.Tethering.TetheringDisabledCause.html",
+          "hash": "b//DUvYQPyJGs/t3smoT7IRZp3FcE5CdiT/h4QGULbM="
+        }
+      },
+      "is_incremental": false,
+      "version": "internals",
+      "group": "internals"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Network.Tethering.TetheringError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Network.Tethering.TetheringError.html",
+          "hash": "g3KP531qbbW3/mu2MSaVv8AlgzzUdMM5Dk+HojbiMLA="
+        }
+      },
+      "is_incremental": false,
+      "version": "internals",
+      "group": "internals"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Network.Tethering.TetheringExtensionClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Network.Tethering.TetheringExtensionClient.html",
+          "hash": "tQGx+/FmchgpBX7x81ZQiCesHAiQnAmO1mwsIGTkck4="
+        }
+      },
+      "is_incremental": false,
+      "version": "internals",
+      "group": "internals"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Network.Tethering.TetheringExtensionDisabledEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Network.Tethering.TetheringExtensionDisabledEventArgs.html",
+          "hash": "SYFmcmh4BcCbJXd0y9iR1DGiyGuLXhlke1knOP7qieM="
+        }
+      },
+      "is_incremental": false,
+      "version": "internals",
+      "group": "internals"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Network.Tethering.TetheringExtensionEnabledEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Network.Tethering.TetheringExtensionEnabledEventArgs.html",
+          "hash": "u5GbjniW/pdjttcvqjQ5ZNdXN8IIX48u+hhujcw8CwU="
+        }
+      },
+      "is_incremental": false,
+      "version": "internals",
+      "group": "internals"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Network.Tethering.TetheringExtensionManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Network.Tethering.TetheringExtensionManager.html",
+          "hash": "0if4bDJe+WuXgUJEYgpcEwoFwdQswtcQ1YRrVuqsM34="
+        }
+      },
+      "is_incremental": false,
+      "version": "internals",
+      "group": "internals"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Network.Tethering.TetheringInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Network.Tethering.TetheringInfo.html",
+          "hash": "uoMyNNzmCSo4oinSRUrZjUNlyI6IoR4ING7ngTl6X+U="
+        }
+      },
+      "is_incremental": false,
+      "version": "internals",
+      "group": "internals"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Network.Tethering.TetheringSecurityType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Network.Tethering.TetheringSecurityType.html",
+          "hash": "ZyMYv6vhq43nrfEBTgxd7d7qqgOXwhx2rgszG248CHg="
+        }
+      },
+      "is_incremental": false,
+      "version": "internals",
+      "group": "internals"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Network.Tethering.TetheringType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Network.Tethering.TetheringType.html",
+          "hash": "CmnptW30l4Nv559ZNjw5PqV9GxNy1S7FKHLN+xStYpQ="
+        }
+      },
+      "is_incremental": false,
+      "version": "internals",
+      "group": "internals"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Network.Tethering.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Network.Tethering.html",
+          "hash": "vC7K0I+AL/ElhbItZCtgM/3lJcb3NMpUzYMFbZn5qSY="
+        }
+      },
+      "is_incremental": false,
+      "version": "internals",
+      "group": "internals"
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "obj/internals/api/Tizen.Peripheral.Adc.AdcChannel.yml",
       "output": {
         ".html": {
@@ -315199,7 +315199,7 @@
       "output": {
         ".html": {
           "relative_path": "internals/api/toc.html",
-          "hash": "Mh1q9V8EM77fGhcy4aulRbkhMxvGhiAhOCws9bBkowo="
+          "hash": "uJsg42P/w1jahlm71aKBmxNB3ZSgaKw60nr5I18Bb0w="
         }
       },
       "is_incremental": false,
@@ -315669,7 +315669,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 2681,
+          "total_file_count": 2670,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
@@ -315979,7 +315979,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 51,
+          "total_file_count": 62,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
