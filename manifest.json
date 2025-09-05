@@ -119757,7 +119757,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.BaseComponents.GLView.ColorFormat.html",
-          "hash": "OtlFCIu2R3n0Ltsa3p6zx0wzSSlLCd7qEejVVaShdTc="
+          "hash": "23K9u8Yx+DFzMLzxbi8BC7l4N6DLph8pzpjQlO/ziDU="
         }
       },
       "is_incremental": false,
@@ -119770,7 +119770,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.BaseComponents.GLView.GLInitializeDelegate.html",
-          "hash": "ft/R/5ugX7N5DXYfzrielHuzVCQ3TZJB/n1RifyJ7gw="
+          "hash": "N2vfrLu0lKkwhj3JBMUe/ZvMQe+6uzMmHBlBGaJW/GQ="
         }
       },
       "is_incremental": false,
@@ -119783,7 +119783,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.BaseComponents.GLView.GLRenderFrameDelegate.html",
-          "hash": "67waZoDwYwO4i1lv0fTQWEM+Jm2Baqc/prj3twLB7dg="
+          "hash": "k7M1VSO4DPjXy5jYcbbGGQ1v7CC6Hrtg5IJrNxyszyM="
         }
       },
       "is_incremental": false,
@@ -119796,7 +119796,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.BaseComponents.GLView.GLTerminateDelegate.html",
-          "hash": "KCQMqbE8MSMIkpwHSgxeEAed5LnJumML8wTafR/yJd8="
+          "hash": "HY00ahml0xYcnj2yPcI3wVKtErlWD1oED2W+RWm6U/Q="
         }
       },
       "is_incremental": false,
@@ -119809,7 +119809,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.BaseComponents.GLView.ViewResizeDelegate.html",
-          "hash": "SNrIH9qMlJJZRyaWyqNUoyvMgrpU/D1q/RXLvdG5p1I="
+          "hash": "WKo5dU9fmGPujkgMK0SaNQVs+9Dmqx5xZE4FjRLg0Fw="
         }
       },
       "is_incremental": false,
@@ -119822,7 +119822,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.BaseComponents.GLView.html",
-          "hash": "aKW2yuuyL2VTnACf55d/ZJS5ezanTGAGCSK5YUQmjwY="
+          "hash": "lgpjHjCeeLphNSkhGnrdmssGP4JBKe64a1quK5+wLQM="
         }
       },
       "is_incremental": false,
@@ -122851,7 +122851,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.InputMethod.ActionButtonTitleType.html",
-          "hash": "TkKL8v3+WWuvoQHtqO2JpFT8G2PxDjvU9Qr1rBX0lz8="
+          "hash": "YrskmYiXo9sZcklSt2Y679OddqLiXnRHnozJ9IKeRsk="
         }
       },
       "is_incremental": false,
@@ -122864,7 +122864,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.InputMethod.AutoCapitalType.html",
-          "hash": "wIXbboE9Dqbb40nwSey+1Swn2Ov4KPo4b2xVKivjtrI="
+          "hash": "9yUDU/l3VBi2qfRjAs97PGgsg55CBdslLLmUUhIDUrc="
         }
       },
       "is_incremental": false,
@@ -122877,7 +122877,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.InputMethod.CategoryType.html",
-          "hash": "rHkS/uPMCqBwy0f4yxkY1SpHzjmyboriYLmxg1Hx3BQ="
+          "hash": "c+PpGg7kKz2OD1CfKRXmbx1jVi/0A/+76wBXrZyGChw="
         }
       },
       "is_incremental": false,
@@ -122890,7 +122890,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.InputMethod.NormalLayoutType.html",
-          "hash": "YCNmYP2RUQfhifA3HzFqxgukPpthEAAMBWeOtfzyWto="
+          "hash": "fmc2hHrCW09A7GPGpAvZGz9RBPn789pgivIMG9xCdIw="
         }
       },
       "is_incremental": false,
@@ -122903,7 +122903,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.InputMethod.NumberOnlyLayoutType.html",
-          "hash": "LJPyExIdN1H3vQ8jTesPrWFybmlpU3/wlOt+/sNN1Sw="
+          "hash": "vSGXl11fId7RTsAvqRecg1brj95YkaXZuNj5ZylYK2g="
         }
       },
       "is_incremental": false,
@@ -122916,7 +122916,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.InputMethod.PanelLayoutType.html",
-          "hash": "Tg8S5E7xiS66evNslqWSZCbJ5sqVBPQGZV5ezU1FHFI="
+          "hash": "5EPri2wsrTVLj3FoYcvwowLk8qTQZxWI5gF15ElmIdM="
         }
       },
       "is_incremental": false,
@@ -122929,7 +122929,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.InputMethod.PasswordLayoutType.html",
-          "hash": "IiHcOCG9+vrncm5861/BUvETPIhubujLT2vg1p67nhU="
+          "hash": "09ccZ/YSCBSyv+/Kvih7pCjxoJbP4Wc+IxUO5nsPkgE="
         }
       },
       "is_incremental": false,
@@ -122942,7 +122942,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.InputMethod.html",
-          "hash": "LkUpTCgxX3sPskPKOXEK2MmUp1xbnef5o7xip8lI6gM="
+          "hash": "67Q5KkUj4na5RuxFFs9FJIwQXkWNU3hzLb9iLKU16ug="
         }
       },
       "is_incremental": false,
