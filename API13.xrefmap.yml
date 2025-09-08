@@ -40922,6 +40922,19 @@ references:
   isSpec: "True"
   fullName: Tizen.Applications.Package.DependencyTo
   nameWithType: Package.DependencyTo
+- uid: Tizen.Applications.Package.FirstInstalledTime
+  name: FirstInstalledTime
+  href: API13/api/Tizen.Applications.Package.html#Tizen_Applications_Package_FirstInstalledTime
+  commentId: P:Tizen.Applications.Package.FirstInstalledTime
+  fullName: Tizen.Applications.Package.FirstInstalledTime
+  nameWithType: Package.FirstInstalledTime
+- uid: Tizen.Applications.Package.FirstInstalledTime*
+  name: FirstInstalledTime
+  href: API13/api/Tizen.Applications.Package.html#Tizen_Applications_Package_FirstInstalledTime_
+  commentId: Overload:Tizen.Applications.Package.FirstInstalledTime
+  isSpec: "True"
+  fullName: Tizen.Applications.Package.FirstInstalledTime
+  nameWithType: Package.FirstInstalledTime
 - uid: Tizen.Applications.Package.GetApplications
   name: GetApplications()
   href: API13/api/Tizen.Applications.Package.html#Tizen_Applications_Package_GetApplications
