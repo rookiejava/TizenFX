@@ -107732,7 +107732,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Applications.CoreApplication.html",
-          "hash": "De9tUz3JatZSXAI0+4CQ5X9RgKvKvu+S6eKOmsq50eo="
+          "hash": "PRttAhhiaT99bvqqxSCbqddLtHIGKbKYfyIZDN3Nrf8="
         }
       },
       "is_incremental": false,
@@ -109227,7 +109227,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Applications.Package.html",
-          "hash": "W0R89kQuWPb60wtD1bdVlG46DDfczaZT8LUr9OGxjZc="
+          "hash": "83AXMPFSmkbcHISXyx3K6jjvjgrdEDGqVzePmXPCkcg="
         }
       },
       "is_incremental": false,
@@ -111346,7 +111346,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Context.AppHistory.AppStatistics.html",
-          "hash": "MakoA/CwefIPMMdwrhAZiHgW2+cHsG+WMoCD6f+wUuk="
+          "hash": "uvePYKNWT7pKgCPHi/YtRRR2lDgd99Sroy7DQmmZQAA="
         }
       },
       "is_incremental": false,
@@ -111359,7 +111359,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Context.AppHistory.AppStatisticsData.html",
-          "hash": "BERlMmYUTA5KKxDaA3iX6tP2qKFpWVhq0U4KdjsKALI="
+          "hash": "/zhBBtGCRn+l83wXC8z58G5fltsCxc0LTx9F+aY/NQc="
         }
       },
       "is_incremental": false,
@@ -111372,7 +111372,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Context.AppHistory.BatteryStatistics.SortOrderType.html",
-          "hash": "f6Dmpx2Nhc/rLR/GQx6ZMgeXWW5R4mazxU1oKwl7QYo="
+          "hash": "kiYx4NIM30BIyrCTgi7GvVFrB2eesUBcstmPdYuA+Js="
         }
       },
       "is_incremental": false,
@@ -111385,7 +111385,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Context.AppHistory.BatteryStatistics.html",
-          "hash": "KzkNuS4m2eap/pZzz6Ccs+boZK6+DGtu2x23bbbwko4="
+          "hash": "/fvUXo3CQ0ckOyVmVVhwDedvb3ELNzxcexVqoxe1zTA="
         }
       },
       "is_incremental": false,
@@ -111398,7 +111398,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Context.AppHistory.BatteryStatisticsData.html",
-          "hash": "W9lB98Uvj6mGW7Y4Ja6ZzFdhTt+33Lds28igm0t1PDk="
+          "hash": "ASjYVrqiNAY535VNeOIwoSUagEY5ttaJ+NWhuqTA7+A="
         }
       },
       "is_incremental": false,
@@ -111411,7 +111411,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Context.AppHistory.UsageStatistics.SortOrderType.html",
-          "hash": "I1wx1aTWuPUt5mR7bWVEReo4J2LmoyjZj/FGMqYj4jQ="
+          "hash": "e7rfXPazTo6KQVG2WAfm8cqOFeSSlh6l4intcWSHnR0="
         }
       },
       "is_incremental": false,
@@ -111424,7 +111424,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Context.AppHistory.UsageStatistics.html",
-          "hash": "9TwygcRqyIvuFCKbWxWjH2vBunucVivw5367X9yW9l8="
+          "hash": "CXkAXmXAP7ZetZchxWMgZp8Y8M49PliwahNcGPuCQgY="
         }
       },
       "is_incremental": false,
@@ -111437,7 +111437,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Context.AppHistory.UsageStatisticsData.html",
-          "hash": "U+c5TzZNDFiVNViWLeQ0vFVcA9K5GrKmt6NUHf837zU="
+          "hash": "IinfXTcKl+NQoJ0L8RtSAXIB0+BhALu3LgjrXyPASYM="
         }
       },
       "is_incremental": false,
@@ -111450,7 +111450,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Context.AppHistory.html",
-          "hash": "VnzFoB0obZQxkC6RDb3XURXg3SfwaZGdBZMxCGiwhFo="
+          "hash": "+icO1b8KxzVcjXQRmqWvZ+IaH1KY/qMq9ZSPuk+Br94="
         }
       },
       "is_incremental": false,
@@ -127505,7 +127505,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Network.IoTConnectivity.Attributes.html",
-          "hash": "cvIKyBSYP10x4RfZUMKqOKIhHGbUbe9CNtwy3HVLwZ4="
+          "hash": "+VlicieW1Bp6v874f8jVAPfLA6d2KfnLIIxAIk4euoA="
         }
       },
       "is_incremental": false,
@@ -127518,7 +127518,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Network.IoTConnectivity.CacheUpdatedEventArgs.html",
-          "hash": "fXx2FiYVL6s6eAPjyjjQfoN7nWvpE5ckAQk8tLwK6YY="
+          "hash": "kvDapuXYgwecmsdNYIv8KvGDVswbRawpS1j35T1BLkE="
         }
       },
       "is_incremental": false,
@@ -127531,7 +127531,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Network.IoTConnectivity.DeviceInformationFoundEventArgs.html",
-          "hash": "Czepj4czV1UGHMG2pgTrgCo99FOTOWVQhOxHUtfiOAI="
+          "hash": "IiJ9FKU6RQcxFn7xjQyPzOhAzC/s6J+fnK9xbK97dak="
         }
       },
       "is_incremental": false,
@@ -127544,7 +127544,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Network.IoTConnectivity.FindingErrorOccurredEventArgs.html",
-          "hash": "K9l37swSmv1Dbj5AeRmjPGywxyh1M16vgQvZhVtrGvQ="
+          "hash": "rIbvEU1GO3M1mIo/7CiepJMaj8vJz3f1fn5pLVmg0Qo="
         }
       },
       "is_incremental": false,
@@ -127557,7 +127557,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Network.IoTConnectivity.IoTConnectivityClientManager.html",
-          "hash": "dN5vGZsB2HU1r7eBEmtGnA1WmaqFZR4JTZ+OaCKU4lI="
+          "hash": "vS1w09A3ZgYUMdC77cui4sjX1D/dh3+FXSwtBvC0Zuc="
         }
       },
       "is_incremental": false,
@@ -127570,7 +127570,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Network.IoTConnectivity.IoTConnectivityServerManager.html",
-          "hash": "BinRhv0HHmALf0qh7T8plIhzW+KQ7ixlu8/+ESe7pvQ="
+          "hash": "50CLx3Wohoa9jJ9myY2lbDIDhgRt8Fn+y+7gP/eUBz0="
         }
       },
       "is_incremental": false,
@@ -127583,7 +127583,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Network.IoTConnectivity.LiteResource.html",
-          "hash": "MFWxriw6gf7jyS6J7j2Vvla0VZolaN0Px9n/nIkvmYw="
+          "hash": "BfFlhUHtkttNncKuzTtDYvMR6bMBVrXdjQnmN5VXmsI="
         }
       },
       "is_incremental": false,
@@ -127596,7 +127596,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Network.IoTConnectivity.ObservePolicy.html",
-          "hash": "Y+lCBVV8ooGcTKrqIMWB2I9KRDE1jLnOCL7ajRWMFCI="
+          "hash": "qifkZkCyZ3xObrsTx4bRvVpRWBtXokWNFRLIewJ1DL8="
         }
       },
       "is_incremental": false,
@@ -127609,7 +127609,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Network.IoTConnectivity.ObserveType.html",
-          "hash": "aoUwFIcazy8VF3Ak5SScEz+A5JeCMhoBFgylRHZXmyw="
+          "hash": "6eBqJvivCCkwr4e5/RwILHY8eFpMrZKnM/zKSNH4l1k="
         }
       },
       "is_incremental": false,
@@ -127622,7 +127622,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Network.IoTConnectivity.ObserverNotifiedEventArgs.html",
-          "hash": "pC/sHegGcPU7VVUPuMo4TOhPOWLxmNy/enCHhdmB9xs="
+          "hash": "Zb0VEdPNC0mMInwdW8f8YfohTRR0IjZLieSzm2KSdWw="
         }
       },
       "is_incremental": false,
@@ -127635,7 +127635,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Network.IoTConnectivity.PlatformInformationFoundEventArgs.html",
-          "hash": "xPCRgFQWRCIQG5NDFaRG1ln4xSX6p0jDRKuxQjL0O/A="
+          "hash": "BNDYsmcX2wnjsVwmWZ0b6Z8nCHroOod0qGCbngOm4mA="
         }
       },
       "is_incremental": false,
@@ -127648,7 +127648,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Network.IoTConnectivity.PresenceEventType.html",
-          "hash": "CyRuCvCIB/1hlH0fNqHrnd33ZyPzwfmyAHoQAfMEhYs="
+          "hash": "l4AS6fMd9GZTqGgSdlCOnqWP1vIIO9LsyPOTBHLXFzg="
         }
       },
       "is_incremental": false,
@@ -127661,7 +127661,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Network.IoTConnectivity.PresenceReceivedEventArgs.html",
-          "hash": "CoqLVFpeqtfrTgiU/qf11Iu6bZKrwhEPR+HDm3lN9wQ="
+          "hash": "OWm1bhM2rmlHSf+H72jxgEu4H+HqCaGHYA4T84QtXc8="
         }
       },
       "is_incremental": false,
@@ -127674,7 +127674,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Network.IoTConnectivity.QualityOfService.html",
-          "hash": "lUm1O1sXjqm8D02jff8JzR8LjyvwT2h0397O4rVMYaA="
+          "hash": "8tpMnSjifeeSb//zosO8PsJgGQaQA4maen6C8xtFuP4="
         }
       },
       "is_incremental": false,
@@ -127687,7 +127687,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Network.IoTConnectivity.RemoteResource.html",
-          "hash": "7rF8LuOly39L/d91DgXNvWuH2GkXmPLFHaHRNfe9hqY="
+          "hash": "xuKBaLFsCqE1XI7awh3Fb/FtuDmv1Q9lSxBuQVuou1Q="
         }
       },
       "is_incremental": false,
@@ -127700,7 +127700,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Network.IoTConnectivity.RemoteResponse.html",
-          "hash": "IYp7S9yUaqC9HZbFrlBivTxTuQwxb6Fnahr8Tc/NeqE="
+          "hash": "YptOx0ey7jZp2TaGqLCx5XNawpm0pfJxHdvb5uFqsZc="
         }
       },
       "is_incremental": false,
@@ -127713,7 +127713,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Network.IoTConnectivity.Representation.html",
-          "hash": "Dt/d1yoY0JJz5dFVbMa7UVP8qnLfsKhlnjTTHK6nfSU="
+          "hash": "Ek/Uv0+CD9OvTAtm0Q3Y673Q/EvsuBCDTPndrDDsTq4="
         }
       },
       "is_incremental": false,
@@ -127726,7 +127726,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Network.IoTConnectivity.Request.html",
-          "hash": "q4lWEc7kfpMOGE7LEs+4AOaWAYpbDakfuZncddpuykw="
+          "hash": "XrBaOhZz1ZAOBcdBBKUBnTAgifP+UCZi+JRVlErYsX0="
         }
       },
       "is_incremental": false,
@@ -127739,7 +127739,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Network.IoTConnectivity.Resource.html",
-          "hash": "4U44Zfvt3SOptICK6XfFWNUG9Hx03iIv6ww/fu/Nq+o="
+          "hash": "vyrgGIdVsVZAgk5BNoVh1U5OWchXV25eTZP7mSNaB1U="
         }
       },
       "is_incremental": false,
@@ -127752,7 +127752,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Network.IoTConnectivity.ResourceFoundEventArgs.html",
-          "hash": "Qw2YUqHdRE3lA6fySQ82WghhrLikNdQF4rTWOv8OZzM="
+          "hash": "L6uf8oHRgMnoANRiWTWxa92/iq6UkX/NopqCYvKt0Lw="
         }
       },
       "is_incremental": false,
@@ -127765,7 +127765,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Network.IoTConnectivity.ResourceInterfaces.html",
-          "hash": "IXJMMqtxYUHp0DyatWwdIfADUKRGWt8pjQdoQseqOGA="
+          "hash": "FIdEd2MzuzudXWXIi4RaJ2Endwwb9sgaMMG9V43gq2I="
         }
       },
       "is_incremental": false,
@@ -127778,7 +127778,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Network.IoTConnectivity.ResourceOptions.html",
-          "hash": "R+aeMWaCr2LPV9T7hHxvUGh/+Pcx0isAoDnM0n1xBm8="
+          "hash": "JkVHb5NIZdGImr1O5FNVoftrzhB8cm833Xl46/QH54k="
         }
       },
       "is_incremental": false,
@@ -127791,7 +127791,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Network.IoTConnectivity.ResourcePolicy.html",
-          "hash": "Jp+qffpNd5KUw5HswzKsCzCex4KKVmM6fiFwPZUsqAI="
+          "hash": "uKWZftFRUfZLUk8ZJLa11EgcOWgM+meHBvKadQIsmrg="
         }
       },
       "is_incremental": false,
@@ -127804,7 +127804,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Network.IoTConnectivity.ResourceQuery.html",
-          "hash": "1+bsU35ySQgH4Q2R5by7P3xI1n+VTI+EfYgEsAA60qc="
+          "hash": "PTs26DajV0uLFaPge1yfT3B3dNpI9Aa7Knh8xXAWOWA="
         }
       },
       "is_incremental": false,
@@ -127817,7 +127817,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Network.IoTConnectivity.ResourceState.html",
-          "hash": "Tat3xeKQqNcVwudo8k0loAIGyMrUs9iTM1wctylvmaQ="
+          "hash": "LuI/RG5Tcv5eKWy/eaxSXyU5IhHlWr/p8suRm9YON40="
         }
       },
       "is_incremental": false,
@@ -127830,7 +127830,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Network.IoTConnectivity.ResourceTypes.html",
-          "hash": "9yfxaLSbhYQwDFBoNeQFvcPcd0ujMVYEDiL7Tpl/ZS0="
+          "hash": "dVgLbcp+iJd0P/G7PEppoKcrmqgu1K06nBNBMfIvqM4="
         }
       },
       "is_incremental": false,
@@ -127843,7 +127843,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Network.IoTConnectivity.Response.html",
-          "hash": "A+jy+0ZlHK0m73JClHjaxj3bAEPRBHsNb3RoJqjV2nQ="
+          "hash": "Q9pFZj5zvwT15izXK60y6rHhcIAcYDlC/2PRskhZaMI="
         }
       },
       "is_incremental": false,
@@ -127856,7 +127856,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Network.IoTConnectivity.ResponseCode.html",
-          "hash": "i6BxqrTPKu7O03rTVzU2f6LCVukUEKPJEfMANRQrtaw="
+          "hash": "yQxYTWxYnjM5YPHUxMsYMYHo3whWEtn2iANoxp7KgNk="
         }
       },
       "is_incremental": false,
@@ -127869,7 +127869,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Network.IoTConnectivity.StateChangedEventArgs.html",
-          "hash": "aZIs6hSyOfYVYADXxp8vwM+jp7RLTcrFbPbxP6ZXoZA="
+          "hash": "6X8VoRvU4SWf9b5ESglMKlpNNHtIXm6RZ/iGjo8r+7Q="
         }
       },
       "is_incremental": false,
