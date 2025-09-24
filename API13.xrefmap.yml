@@ -125722,18 +125722,6 @@ references:
   commentId: N:Tizen.NUI.Binding
   fullName: Tizen.NUI.Binding
   nameWithType: Tizen.NUI.Binding
-- uid: Tizen.NUI.Binding.BindableObject
-  name: BindableObject
-  href: API13/api/Tizen.NUI.Binding.BindableObject.html
-  commentId: T:Tizen.NUI.Binding.BindableObject
-  fullName: Tizen.NUI.Binding.BindableObject
-  nameWithType: BindableObject
-- uid: Tizen.NUI.Binding.BindableObject.PropertyChanged
-  name: PropertyChanged
-  href: API13/api/Tizen.NUI.Binding.BindableObject.html#Tizen_NUI_Binding_BindableObject_PropertyChanged
-  commentId: E:Tizen.NUI.Binding.BindableObject.PropertyChanged
-  fullName: Tizen.NUI.Binding.BindableObject.PropertyChanged
-  nameWithType: BindableObject.PropertyChanged
 - uid: Tizen.NUI.Binding.CollectionSynchronizationCallback
   name: CollectionSynchronizationCallback
   href: API13/api/Tizen.NUI.Binding.CollectionSynchronizationCallback.html
@@ -125822,44 +125810,6 @@ references:
   isSpec: "True"
   fullName: Tizen.NUI.Binding.DataTemplate.Values
   nameWithType: DataTemplate.Values
-- uid: Tizen.NUI.Binding.DataTemplateSelector
-  name: DataTemplateSelector
-  href: API13/api/Tizen.NUI.Binding.DataTemplateSelector.html
-  commentId: T:Tizen.NUI.Binding.DataTemplateSelector
-  fullName: Tizen.NUI.Binding.DataTemplateSelector
-  nameWithType: DataTemplateSelector
-- uid: Tizen.NUI.Binding.DataTemplateSelector.OnSelectTemplate(System.Object,Tizen.NUI.Binding.BindableObject)
-  name: OnSelectTemplate(object, BindableObject)
-  href: API13/api/Tizen.NUI.Binding.DataTemplateSelector.html#Tizen_NUI_Binding_DataTemplateSelector_OnSelectTemplate_System_Object_Tizen_NUI_Binding_BindableObject_
-  commentId: M:Tizen.NUI.Binding.DataTemplateSelector.OnSelectTemplate(System.Object,Tizen.NUI.Binding.BindableObject)
-  name.vb: OnSelectTemplate(Object, BindableObject)
-  fullName: Tizen.NUI.Binding.DataTemplateSelector.OnSelectTemplate(object, Tizen.NUI.Binding.BindableObject)
-  fullName.vb: Tizen.NUI.Binding.DataTemplateSelector.OnSelectTemplate(Object, Tizen.NUI.Binding.BindableObject)
-  nameWithType: DataTemplateSelector.OnSelectTemplate(object, BindableObject)
-  nameWithType.vb: DataTemplateSelector.OnSelectTemplate(Object, BindableObject)
-- uid: Tizen.NUI.Binding.DataTemplateSelector.OnSelectTemplate*
-  name: OnSelectTemplate
-  href: API13/api/Tizen.NUI.Binding.DataTemplateSelector.html#Tizen_NUI_Binding_DataTemplateSelector_OnSelectTemplate_
-  commentId: Overload:Tizen.NUI.Binding.DataTemplateSelector.OnSelectTemplate
-  isSpec: "True"
-  fullName: Tizen.NUI.Binding.DataTemplateSelector.OnSelectTemplate
-  nameWithType: DataTemplateSelector.OnSelectTemplate
-- uid: Tizen.NUI.Binding.DataTemplateSelector.SelectTemplate(System.Object,Tizen.NUI.Binding.BindableObject)
-  name: SelectTemplate(object, BindableObject)
-  href: API13/api/Tizen.NUI.Binding.DataTemplateSelector.html#Tizen_NUI_Binding_DataTemplateSelector_SelectTemplate_System_Object_Tizen_NUI_Binding_BindableObject_
-  commentId: M:Tizen.NUI.Binding.DataTemplateSelector.SelectTemplate(System.Object,Tizen.NUI.Binding.BindableObject)
-  name.vb: SelectTemplate(Object, BindableObject)
-  fullName: Tizen.NUI.Binding.DataTemplateSelector.SelectTemplate(object, Tizen.NUI.Binding.BindableObject)
-  fullName.vb: Tizen.NUI.Binding.DataTemplateSelector.SelectTemplate(Object, Tizen.NUI.Binding.BindableObject)
-  nameWithType: DataTemplateSelector.SelectTemplate(object, BindableObject)
-  nameWithType.vb: DataTemplateSelector.SelectTemplate(Object, BindableObject)
-- uid: Tizen.NUI.Binding.DataTemplateSelector.SelectTemplate*
-  name: SelectTemplate
-  href: API13/api/Tizen.NUI.Binding.DataTemplateSelector.html#Tizen_NUI_Binding_DataTemplateSelector_SelectTemplate_
-  commentId: Overload:Tizen.NUI.Binding.DataTemplateSelector.SelectTemplate
-  isSpec: "True"
-  fullName: Tizen.NUI.Binding.DataTemplateSelector.SelectTemplate
-  nameWithType: DataTemplateSelector.SelectTemplate
 - uid: Tizen.NUI.Binding.ElementTemplate
   name: ElementTemplate
   href: API13/api/Tizen.NUI.Binding.ElementTemplate.html

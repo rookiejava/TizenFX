@@ -47764,11 +47764,6 @@
     "title": "Class BaseHandle",
     "keywords": ""
   },
-  "API13/api/Tizen.NUI.Binding.BindableObject.html": {
-    "href": "API13/api/Tizen.NUI.Binding.BindableObject.html",
-    "title": "Class BindableObject",
-    "keywords": ""
-  },
   "API13/api/Tizen.NUI.Binding.CollectionSynchronizationCallback.html": {
     "href": "API13/api/Tizen.NUI.Binding.CollectionSynchronizationCallback.html",
     "title": "Delegate CollectionSynchronizationCallback",
@@ -47777,11 +47772,6 @@
   "API13/api/Tizen.NUI.Binding.DataTemplate.html": {
     "href": "API13/api/Tizen.NUI.Binding.DataTemplate.html",
     "title": "Class DataTemplate",
-    "keywords": ""
-  },
-  "API13/api/Tizen.NUI.Binding.DataTemplateSelector.html": {
-    "href": "API13/api/Tizen.NUI.Binding.DataTemplateSelector.html",
-    "title": "Class DataTemplateSelector",
     "keywords": ""
   },
   "API13/api/Tizen.NUI.Binding.ElementTemplate.html": {
