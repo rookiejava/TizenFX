@@ -120485,7 +120485,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.NUI.BaseComponents.View.html",
-          "hash": "Oe3Sy5TY79f3tB70CZLwoHTkwuNJPxgMqGJl2GJkO/4="
+          "hash": "Q8fiFOON3q4NSFBxmupgOdU5qeoZUCRc8ylk/5H1bPg="
         }
       },
       "is_incremental": false,
@@ -132315,7 +132315,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Sensor.Accelerometer.html",
-          "hash": "A19xDvw4qA6EWLiaHshjzAF2W9LOrFq9mP4pxPOrNtM="
+          "hash": "R8c5MA4s8FiXETuiCosNYpifUFPsqdDYIYGwKYkFc3Y="
         }
       },
       "is_incremental": false,
@@ -132367,7 +132367,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Sensor.AutoRotationSensor.html",
-          "hash": "eoxL+NOcxYOcvvrKx2LeH8sor9nNhAlZesKRNrPQbeY="
+          "hash": "emJ/wxW81drfmOQ36zhcJY79WY/dYSYPN9izX4iyt50="
         }
       },
       "is_incremental": false,
@@ -132445,7 +132445,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Sensor.FaceDownGestureDetector.html",
-          "hash": "p8dzvv7SYzRC38/YtO84PY3iRw19Ky7iSA1UxExOTr4="
+          "hash": "hn0QhDFThzXJ7Tk1kSLarTD0ysjbSPYui8KjdgcHgSY="
         }
       },
       "is_incremental": false,
@@ -132471,7 +132471,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Sensor.GravitySensor.html",
-          "hash": "aSibY8KNLG/zxkwRdC0bSB5Ih3TuuA6rq5k3NoVYTyY="
+          "hash": "SebwmplsqoLMrFZHTlbY/JKM4qEtvo+E4+P1AoaBrYI="
         }
       },
       "is_incremental": false,
@@ -132497,7 +132497,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Sensor.Gyroscope.html",
-          "hash": "V41l99WyVVj4u/4HZXXdH74N18fgdlYZt44nKjMjgno="
+          "hash": "aQyCdFVvZLlSZKC0tw7hUIEzwdl2vkymKlk2wGf6/tw="
         }
       },
       "is_incremental": false,
@@ -132523,7 +132523,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Sensor.GyroscopeRotationVectorSensor.html",
-          "hash": "YCNUTFg55VUhi0jMbBNMGzkQme3wlOvD9cmD6FHOxg4="
+          "hash": "Jm2KWz2lf3vgIroFdMDYf8gLH4yRNJPeWtTSU21JhVU="
         }
       },
       "is_incremental": false,
@@ -132549,7 +132549,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Sensor.HeartRateMonitor.html",
-          "hash": "fj9Qg4mFMMieeKxeUBb70be5p97XDIRR4UiPZJG3oUU="
+          "hash": "SrhADQzsT2BEoQ9mu8NYNRh+F9uEGL1Y6h/1inYGHFs="
         }
       },
       "is_incremental": false,
@@ -132562,7 +132562,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Sensor.HeartRateMonitorBatch.html",
-          "hash": "r5bdBiCgQttdkhxXGX7+BR369AqBG4jh46iRRnVwWrw="
+          "hash": "3/u3iOGWtSWeWwBoAUMNnsxPmJb0B8i+g65IK08gGws="
         }
       },
       "is_incremental": false,
@@ -132627,7 +132627,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Sensor.HeartRateMonitorLEDGreenBatch.html",
-          "hash": "5PyWU0EGoVjCsDwBrhfKLPUqlsnpnvkoxKT0Mq1rACM="
+          "hash": "+4vFMTD4NKQeq16X4c3qoJMdPQ6VOxmjnq6ZgXk/2Zc="
         }
       },
       "is_incremental": false,
@@ -132666,7 +132666,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Sensor.HumiditySensor.html",
-          "hash": "Gz8ZPf4YTs7mRBirl9ffQXK44j90DJsqU16gQOfjsUk="
+          "hash": "YxNPAk4AkjK99gQRlcV07y6ndNlbez8C28KLVr6pf6k="
         }
       },
       "is_incremental": false,
@@ -132692,7 +132692,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Sensor.InVehicleActivityDetector.html",
-          "hash": "YrbW6pNZRdh1upCRv6LGN286dDT0cYlQL3vvN0BdZ6Q="
+          "hash": "cqgLDzdUqX6XVqU8Ek4zkwIgwfvvAG55Tn2H7W5wx3E="
         }
       },
       "is_incremental": false,
@@ -132718,7 +132718,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Sensor.LightSensor.html",
-          "hash": "tp5Kk8vZRsZuBgrkUdzvhRTzq3rkFhG2iOeDhuONupI="
+          "hash": "AvtOJmnXRnipS9AuEXkf25g+TI3ZOxWMiLDUeQOvnus="
         }
       },
       "is_incremental": false,
@@ -132744,7 +132744,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Sensor.LinearAccelerationSensor.html",
-          "hash": "NiE3vQRvRbp340FUjV+yikNz+/DpbSKb8NYL7jGU0dg="
+          "hash": "avPFt63Z1ubmFfSxI/aogZYW6JVNU8p95cQ8i5kETZY="
         }
       },
       "is_incremental": false,
@@ -132770,7 +132770,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Sensor.Magnetometer.html",
-          "hash": "5SIvU+3LEQkaMhoz8/2Bgt40QnuBrEea7qjJdfxw63Q="
+          "hash": "ELYO3U5tW1WJGAuJbkC6qNTbnloA+u5bGJygb+mcfzA="
         }
       },
       "is_incremental": false,
@@ -132796,7 +132796,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Sensor.MagnetometerRotationVectorSensor.html",
-          "hash": "TnSEY1uaatWYc0RfhC+gB0DDY0d5C2v4hsk6zExMJwI="
+          "hash": "B4Xwv6N7NAxKtQDz/ijmek/J0VZHiJ0HAnWBdvlwOuM="
         }
       },
       "is_incremental": false,
@@ -132822,7 +132822,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Sensor.OrientationSensor.html",
-          "hash": "XuChUJ9+B108T8a9hONFcAHtOZkxHrKaX7Mc2Pac4f8="
+          "hash": "DLE+eUBP6gcOMdxbNDxKkLRUfPPxapAKEYTsB/UcxLY="
         }
       },
       "is_incremental": false,
@@ -132848,7 +132848,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Sensor.Pedometer.html",
-          "hash": "rFrdXe2TmFz6JGOL61xZakat7SjKByohCW0BYwRVeFE="
+          "hash": "CxzUjxhflOKthBxj5lsx4YNX03VhmSXqbYejx5o3Ns4="
         }
       },
       "is_incremental": false,
@@ -132887,7 +132887,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Sensor.PickUpGestureDetector.html",
-          "hash": "hpJ/TRkMJ52j+fqCdhc+E181kF87T0mdlS69U6RmcFg="
+          "hash": "/YJbF1Ca/Dh6kN7VGmIsazzzb9N3p/jQagulHTB0Up8="
         }
       },
       "is_incremental": false,
@@ -132913,7 +132913,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Sensor.PressureSensor.html",
-          "hash": "jPGzt5dVewepxfbWdTHaszVOyjx5bwvGGkB97dvqyyQ="
+          "hash": "ALsya9zMRoT5y2+KvO1bRvzisoE/4endPKeyRVmmWho="
         }
       },
       "is_incremental": false,
@@ -132939,7 +132939,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Sensor.ProximitySensor.html",
-          "hash": "2YNJHykpckT+JGrccloMXOjnHVHlNlB4FD5y9lcyqlc="
+          "hash": "a8A5kisrsMnA4ymfYULYxj4cPEI9SIPhdL3XFrUaOAQ="
         }
       },
       "is_incremental": false,
@@ -132978,7 +132978,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Sensor.RotationVectorSensor.html",
-          "hash": "LrBU/V4k7yo8VNFZJYbM1/OnLpm0jSwejGJUbOtuQos="
+          "hash": "0FZWr+kGxZUsqnuchFqZnM8fMZ2GRY0AMhS4l2/ZycY="
         }
       },
       "is_incremental": false,
@@ -133004,7 +133004,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Sensor.RunningActivityDetector.html",
-          "hash": "hRxpHrYzioG+CTG+mo2a8hdPkfwMSGMQa1kr2cfWWno="
+          "hash": "Jptq5vU3kiQoAGOsQXtwkUfHPmzgtnt5aAcaBg6lhpQ="
         }
       },
       "is_incremental": false,
@@ -133082,7 +133082,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Sensor.SleepMonitor.html",
-          "hash": "BEqhRbfOyvxTiLbwHPQX1Oh5ay8QLXMf4sGf9t570+k="
+          "hash": "9pehAHvoWHukwNYwpnzFaxItp24mhljkt1wPOBybZa8="
         }
       },
       "is_incremental": false,
@@ -133121,7 +133121,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Sensor.StationaryActivityDetector.html",
-          "hash": "gQk62cVcRHXwpFj0dIPPvmB5c33zK+X97B//YLkOlUE="
+          "hash": "fnzuvl6FHwfVkY2G/6pRtfhePCiykPJ4mP5VLjrw3/g="
         }
       },
       "is_incremental": false,
@@ -133147,7 +133147,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Sensor.TemperatureSensor.html",
-          "hash": "7GxLNg/1UZYxBYuXsSnNVnNaY0zsGb/sXg7Lo5I6sEQ="
+          "hash": "KsAhWKblqGIZ0Zu51xybW+Dt7kn0a4iE21LjcjCvgMM="
         }
       },
       "is_incremental": false,
@@ -133173,7 +133173,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Sensor.UltravioletSensor.html",
-          "hash": "dxr3fIcmH6MI+hlQrmij7bupWH97atHbfW+d7HzI2UQ="
+          "hash": "/d/ZyCMv88e+P4AAUJtNOAy75z+1qxzT45CHjUS56VU="
         }
       },
       "is_incremental": false,
@@ -133199,7 +133199,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Sensor.UncalibratedGyroscope.html",
-          "hash": "1xXvx1IxF371QOJAqoaQXKE9BLWmX+CUZpnHi7nXPJg="
+          "hash": "spV0SYhL/B1xv+7L5m5FWlvmFJ+zJqHeCXP8dFk43Nc="
         }
       },
       "is_incremental": false,
@@ -133225,7 +133225,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Sensor.UncalibratedMagnetometer.html",
-          "hash": "MSeEw2akf3ll3OuEI0mFYhmnsy6XRXBFxahEHY6tnTk="
+          "hash": "SyMqPucIPjdgBGsoCCNIoIUKSrx45teJfyJkd2YqF1E="
         }
       },
       "is_incremental": false,
@@ -133251,7 +133251,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Sensor.WalkingActivityDetector.html",
-          "hash": "Ub9O9iAxBLht9wMeMgQ0++vMGGQsJwzOmGvvZsjoq4A="
+          "hash": "KaSNVQ0jh7zkxeJqBszq+ZUH1760dmkutL/kdLCfunY="
         }
       },
       "is_incremental": false,
@@ -133277,7 +133277,7 @@
       "output": {
         ".html": {
           "relative_path": "API13/api/Tizen.Sensor.WristUpGestureDetector.html",
-          "hash": "+P29lITJFxIeVgE9ZnS/Rc0KfCHhFyLPMzYUTv86v1Y="
+          "hash": "qL7YD+D1JZPOqnKW1COzyGOR77gKA1JZHWTqpIPjVsM="
         }
       },
       "is_incremental": false,
