@@ -152128,7 +152128,7 @@
       "output": {
         ".html": {
           "relative_path": "API14/api/Tizen.NUI.BaseComponents.WebView.html",
-          "hash": "uV5AuQTqrLGC+hLV1IZHuykIaei0w9TDbcqEJ8UQflM="
+          "hash": "axaWuIVWLvyMr021ElNJ2LZ8s7noTA9PN7rY+EjepHE="
         }
       },
       "is_incremental": false,
@@ -347001,15 +347001,12 @@
       "group": "API12"
     },
     {
-      "log_codes": [
-        "UidNotFound"
-      ],
       "type": "Conceptual",
       "source_relative_path": "specs/API13/api/index.md",
       "output": {
         ".html": {
           "relative_path": "API13/api/index.html",
-          "hash": "H1DaVC6KhiJRotkH/brnJCTtOw5sq4NTwn+fEkGgbOg="
+          "hash": "gE6lo74orhGq8vt80z3UhULx7ofQHR2+/gxWlWLVv6s="
         }
       },
       "is_incremental": false,
@@ -347017,15 +347014,12 @@
       "group": "API13"
     },
     {
-      "log_codes": [
-        "UidNotFound"
-      ],
       "type": "Conceptual",
       "source_relative_path": "specs/API13/index.md",
       "output": {
         ".html": {
           "relative_path": "API13/index.html",
-          "hash": "E7ih5NVzhp9spPbGu9t0Vy88s8mvJusJheIX7eh3bdE="
+          "hash": "YzwwBYZhYWUO17wvu96PA3RZ+V+a677V4fRqPZ2ranw="
         }
       },
       "is_incremental": false,
